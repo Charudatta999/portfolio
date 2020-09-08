@@ -1,0 +1,140 @@
+{
+  "main": {
+    "name": "Charudatta Jadhav",
+    "occupation": "  Student Studying at Nutan College OF Engineering and Research (Pune)",
+    "description": "Aspiring Full Stack web Developer ,Diving In the world Of technology",
+    "image": "IG_cj.jpg",
+    "bio": "My name is Charudatta,  I'm an Entreperner on my Path progressing an Aspiring Full Stack web Developer. Currently I'm Student   at Nutan College Of Engineering And Research Pursuing My B-Tech in Computer Science Learning Web Technologies. Upgrading My Stack with various new technologies like Machine Learning, Image Processing, Full Stack Web Development. Grinding and Hustling on 🚀...",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "cjawsome999@gmail.com",
+    "phone": "+91 7020 143 530",
+    "address": {
+      "street": "123 Fake Street",
+      "city": "Karad",
+      "state": "India(Maharashtra)",
+      "zip": "Karad 415108 "
+    },
+    "website": "#",
+    "resumedownload": "#",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/charudatta.jadhav.3",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/charudatta-jadhav-161964150/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/_charudatta/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Charudatta999",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "DBATU,Raigad(Maharashtra),India ",
+        "degree": "B-Tech in Computer Science",
+        "graduated": "Pursuing",
+        "description": "Pursuing"
+      },  
+      {
+        "school": "MSBTE(Maharashtra),India ",
+        "degree": "Diploma in Information Technology",
+        "graduated": "2019 March",
+        "description": "Completed With First Class"
+      }
+    ],
+    "work": [
+      {
+        "company": "Clever Programmer",
+        "title": "Team Member && React Specialist",
+        "years": "April 2020 - Present",
+        "description": "Teaching ReactJS to thousands of students."
+      },
+      {
+        "company": "Lindar Media",
+        "title": "Software Engineer",
+        "years": "Nov 2019 - April 2020",
+        "description": "Building MrQ, a gambling website."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "0%"
+      },
+      {
+        "name": "CSS",
+        "level": "60%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "python",
+        "level": "55%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MySql",
+        "level": "70%"
+      },
+      {
+        "name": "java",
+        "level": "35%"
+      },
+      {
+        "name": "php",
+        "level": "55%"
+      },
+       {
+        "name": "laravel",
+        "level": "65%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      
+      {
+        "title": "A grivenace redressal portal Prototype",
+        "category": "Built With Laravel 7 Can't add Repo link due Security Concerns",
+        "image": "laravel.png",
+        "url": "https://github.com/Charudatta999/kb220_hackvengers"
+      },
+      {
+        "title": "A Django Blog ",
+        "category": "A blogging site prototype built with django",
+        "image": "django.png",
+        "url": "https://github.com/Charudatta999/miniproject"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
